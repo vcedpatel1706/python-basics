@@ -1,0 +1,1 @@
+1) when we need to to interact with files/ databasse use try catch.
